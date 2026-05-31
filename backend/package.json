@@ -1,0 +1,35 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "College Pass Management System Backend",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "./start-with-mongo.sh",
+    "start-simple": "node server.js",
+    "dev": "./start-with-mongo-dev.sh",
+    "dev-simple": "nodemon server.js",
+    "dev-full": "nodemon start-server.js"
+  },
+  "keywords": [
+    "college",
+    "pass",
+    "management",
+    "system"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.3.0",
+    "nodemailer": "^8.0.2",
+    "pdfkit": "^0.18.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

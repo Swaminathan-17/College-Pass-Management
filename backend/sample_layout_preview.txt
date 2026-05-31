@@ -1,0 +1,56 @@
+SAMPLE PDF LAYOUT PREVIEW
+========================
+
+┌─────────────────────────────────────────────────────────────┐
+│                    MODERN BLUE GRADIENT                      │
+│                                                             │
+│                  SCSVMV UNIVERSITY                          │
+│                 STUDENT GATE PASS                           │
+└─────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────┐
+│ STUDENT DETAILS                                             │
+│ ─────────────────────────────────────────────────────────   │
+│ Name: Test Student         Roll No: 21BCE1234              │
+│ Department: CSE            Year: 3rd                       │
+│ Class: CSE-C               Residence: Day Scholar          │
+└─────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────┐
+│                    ┌─────────────────┐                      │
+│                    │   PASS CODE     │                      │
+│                    │                 │                      │
+│                    │    7008BE55     │                      │
+│                    └─────────────────┘                      │
+└─────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────┐
+│ PASS DETAILS                                                │
+│ ─────────────────────────────────────────────────────────   │
+│ Type: OUTPASS    Date: Apr 21, 2026    Out Time: 04:00 PM  │
+│ Return: 06:00 PM  Destination: Home    Reason: Weekend...  │
+└─────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────┐
+│ APPROVAL STATUS                                            │
+│ ─────────────────────────────────────────────────────────   │
+│ ┌─────────────────────────────────────────────────────────┐ │
+│ │ APPROVED BY: Lalitha Faculty                            │ │
+│ │ "Approved for weekend leave"                            │ │
+│ └─────────────────────────────────────────────────────────┘ │
+└─────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────┐
+│ Generated: Apr 21, 2026, 4:40 PM  Valid only with college ID│
+│                    OFFICIAL (watermark)                     │
+└─────────────────────────────────────────────────────────────┘
+
+KEY IMPROVEMENTS:
+✅ Single page - everything fits on one page
+✅ College name center-aligned at top
+✅ Pass code centered in yellow box with red text
+✅ Modern blue gradient background
+✅ Professional color scheme throughout
+✅ Compact 3-column layout for pass details
+✅ Enhanced typography and spacing
+✅ Subtle shadow effects and rounded corners
