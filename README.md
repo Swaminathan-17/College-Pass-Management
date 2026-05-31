@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # College Pass Management System (CPMS)
 
 A comprehensive web application for digitizing and managing student outpass requests in educational institutions.
@@ -164,10 +163,6 @@ College-GPM/
 4. Push to the branch
 5. Create a Pull Request
 
-## License
-
-This project is licensed under the ISC License.
 =======
 # College-Pass-Management
 Final Year College Project
->>>>>>> b7288e9fc08db4c34aec6e75607db58fee15fc6e
