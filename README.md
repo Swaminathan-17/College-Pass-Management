@@ -163,6 +163,5 @@ College-GPM/
 4. Push to the branch
 5. Create a Pull Request
 
-=======
 # College-Pass-Management
 Final Year College Project
